@@ -1,0 +1,23 @@
+body{
+	
+	background: url(b3.jpg) no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+background-size: cover;
+
+	
+}
+h1{
+	color: black;
+	font-size: 60px;
+text-align: center;
+    font-family: algerian;
+}
+h2{
+	color: green;
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+
+
+}
